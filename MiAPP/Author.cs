@@ -31,7 +31,7 @@ namespace MiAPP
                 new Author(7, "Agatha Christie"),
                 new Author(8, "Cao Xuequin"),
                 new Author(9, "Mariao Vargas Llosa"),
-                new Author(10, "Cesar Vallejo"),
+                new Author(10, "Cesar Vallejo")
 
             };
         }
